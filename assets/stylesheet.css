@@ -1,30 +1,67 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
+/* Style boby */
 body {
-    background-color: #d9dcd6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-.header {
-    padding: 30px;
+/* Styles header */
+header {
+    display: flex;
+    background-color: grey;
+    color: white;
+    padding: 1rem;
 }
 
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    font-size: 20px;
+header h1 {
+
+flex: 1;
+margin: 0;
+
 }
 
-.header nav ul li {
-    display: inline-block;
-    float: right;
-    margin-left: 15px;
+/* Style nav bar */
+nav ul {
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    
 }
 
-.footer {
-    padding: 30px;
-    text-align: right;
-}    
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+    justify-content: right;
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Style section */
+section {
+    padding: 2rem;
+}
+
+section h2 {
+    margin-bottom: 1rem;
+}
+
+/* Style contact section */
+.contact-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Style footer */
+footer {
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
