@@ -8,33 +8,32 @@ body {
 /* Styles header */
 header {
     display: flex;
+  
     background-color: grey;
     color: white;
     padding: 1rem;
+    align-items: center;
 }
 
 header h1 {
-
-flex: 1;
 margin: 0;
+}
 
+.header nav {
+    display: flex;
+    justify-content: flex-end;
 }
 
 /* Style nav bar */
 nav ul {
-
-    list-style: none;
     margin: 0;
     padding: 0;
-    display: inline;
-    
+    list-style: none;
+    display: flex;
 }
 
 nav ul li {
-    display: inline;
     margin-right: 1rem;
-    justify-content: right;
-
 }
 
 nav ul li a {
@@ -49,6 +48,25 @@ section {
 
 section h2 {
     margin-bottom: 1rem;
+}
+
+/* Hero section styles */
+.hero-image {
+    background-image: -moz-linear-gradient url(/images/vecteezy_technology-background-concept-circuit-board-electronic_6430145.jpg);
+    height: 50%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    margin-top: 1rem;
+    border-radius: 5px;
 }
 
 /* Style contact section */
