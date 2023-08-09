@@ -17,7 +17,7 @@ No installation required.
 
 ## Usage
 
-The website can be accessed here
+The website can be accessed [here](https://alexandrazykova.github.io/professional-portfolio/)
 
 ![Portfolio-Screenshot](images/Portfolio-screenshot.png)
 
