@@ -19,8 +19,15 @@ No installation required.
 
 The website can be accessed [here](https://alexandrazykova.github.io/professional-portfolio/)
 
-![Portfolio-Screenshot](images/Portfolio-screenshot.png)
+![Portfolio-Screenshot](/images/portfolio-screenshot.png)
+
+## Collaborators
+
+HealthTracker was made possible through the collaborative efforts.
+
+Thank you Jan Dunk - JD (https://github.com/JD2929).
 
 ## License
 
 Please refer to the LICENSE in the repo.
+
