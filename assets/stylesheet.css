@@ -53,6 +53,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li:hover {
+    transform: scale(1.1);
+}
+
 /* Hero section styles */
 .hero {
     display: flex;
@@ -152,6 +156,10 @@ a {
     color: brown;
     text-decoration: none;
     font-size: 20px;
+}
+
+a:hover {
+    transform: scale(1.1);
 }
 
 /* Media queries for responsiveness */
