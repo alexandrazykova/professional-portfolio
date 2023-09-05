@@ -71,6 +71,7 @@ nav ul li a {
 /* My photo style */
 .myphoto {
     width: 15%;
+    border-radius: 50%;
 }
 
 /* Section content styles */
@@ -194,4 +195,9 @@ a {
     .work-item.larger {
         flex: 0 0 100%;
     }
+
+    .myphoto {
+        width: 15%;
+    }
+
 }
