@@ -79,7 +79,8 @@ nav ul li:hover {
 
 /* My photo style */
 .myphoto {
-    width: 15%;
+    width: 300px;
+    height: 200px;
     border-radius: 50%;
 }
 
@@ -185,7 +186,10 @@ a:hover {
     nav ul li a {
         color: rgb(213, 145, 237);
     }
-    
+    .myphoto {
+        width: 200px;
+        height: 150px;
+    }
     .work-container {
         justify-content: center;
     }
