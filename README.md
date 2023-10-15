@@ -19,7 +19,7 @@ No installation required.
 
 The website can be accessed [here](https://alexandrazykova.github.io/professional-portfolio/)
 
-![Portfolio-Screenshot](/images/portfolio-screenshot.png)
+![Portfolio-Screenshot](https://user-images.githubusercontent.com/140107498/275361950-ccae15f4-df75-4056-b061-238cb2368b95.png)
 
 
 ## License
